@@ -1,2 +1,5 @@
 name: "Adam157, G'awn Git"
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
+
