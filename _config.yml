@@ -8,12 +8,12 @@ prose:
   siteurl: 'http://adam157.github.io'
   media: 'assets'
   metadata:
-    _posts:
-      - name: "layout"
-        field:
-          label: "layout"
-          element: "text"
-          value: "post"
+#    _posts:
+#      - name: "layout"
+#        field:
+#          label: "layout"
+#          element: "text"
+#          value: "post"
       - name: "date"
         field:
           label: "date"
