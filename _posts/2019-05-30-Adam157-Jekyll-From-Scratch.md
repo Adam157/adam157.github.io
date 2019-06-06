@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adam157 Jekyll '
-date: {}
+date: 2019-06-06
 published: true
 ---
 
