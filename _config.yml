@@ -3,6 +3,8 @@ markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
 
+remote_theme: pmarsceill/just-the-docs
+
 prose:
   rooturl: ''
   siteurl: 'http://adam157.github.io'
